@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
         }
         eletek[elet].setImageResource(R.drawable.heart1);
         if (elet == 0){
-            builder.setTitle("Veresség");
+            builder.setTitle("Vereség");
             builder.create().show();
         }
     }
